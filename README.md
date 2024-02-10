@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jobayer98&label=Profile%20views&color=0e75b6&style=flat" alt="jobayer98" /> </p>
 
-- 🔭 I’m currently working on **Booking Engine**
-
 - 🌱 I’m currently learning **Django, Django REST, DSA**
 
 - 📫 How to reach me **jobayerrahman0220@gmail.com**

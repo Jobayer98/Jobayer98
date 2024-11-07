@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jobayer Rahman</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jobayer98&label=Profile%20views&color=0e75b6&style=flat" alt="jobayer98" /> </p>
 
-- 🌱 I’m currently learning **DSA and Django**
+- 🌱 I’m currently learning **DSA and Flutter**
 
 - 📫 How to reach me **jobayerrahman0220@gmail.com**
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jobayer Rahman</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 🌱 I’m currently learning **AWS, System Design And System Observability and Monitoring**
+- 🌱 I’m currently learning **AWS, System Design, Microservices, System Observability and Monitoring**
 
 - 📫 How to reach me **jobayerrahman0220@gmail.com**
 

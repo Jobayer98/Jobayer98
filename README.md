@@ -19,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jobayer98&show_icons=true&locale=en&layout=compact" alt="jobayer98" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jobayer98&show_icons=true&locale=en" alt="jobayer98" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jobayer98&" alt="jobayer98" /></p>
